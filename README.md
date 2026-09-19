@@ -31,3 +31,15 @@ Repository Contents
 This project demonstrates practical experience working with datasets, preparing data for analysis, exploring information and presenting findings through visualizations.
 
 Academic project created as part of my data analytics studies.
+
+
+
+# Sample Visualizations
+
+Examples of visualizations created during the project:
+
+![Barplot](download.png)
+
+![Scatterplot](Scatterplot.png)
+
+
